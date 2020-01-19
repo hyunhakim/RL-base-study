@@ -22,6 +22,10 @@ Almost these codes is from  [reinforcement learning contents](https://github.com
 
 - [Q-Learning (Off Policy TD Learning)](https://github.com/hyunhakim/RL-base-study/blob/master/TD/Q-Learning.ipynb)
 
+- [Q-Learning with Linear Function Approximation](https://github.com/hyunhakim/RL-base-study/blob/master/FA/Q-Learning%20with%20Value%20Function%20Approximation.ipynb)
+
+  
+  
   
   
   
