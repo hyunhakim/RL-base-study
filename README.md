@@ -24,6 +24,10 @@ Almost these codes is from  [reinforcement learning contents](https://github.com
 
 - [Q-Learning with Linear Function Approximation](https://github.com/hyunhakim/RL-base-study/blob/master/FA/Q-Learning%20with%20Value%20Function%20Approximation.ipynb)
 
+- [Deep Q Network (Atari breakout)](https://github.com/hyunhakim/RL-base-study/blob/master/DQN/dqn_atari_breakout.ipynb)
+
+  
+  
   
   
   
