@@ -2,7 +2,7 @@
 
 This repository is about reinforcement learning algorithms.
 
-Almost these codes is from  [reinforcement learning contents](https://github.com/dennybritz/reinforcement-learning) which are meant to serve as a learning tool with github code.
+Almost these codes is from  [reinforcement learning contents](https://github.com/dennybritz/reinforcement-learning) and [reinforcement-learning-kr](https://github.com/rlcode/reinforcement-learning-kr) which are meant to serve as a learning tool with github code.
 
 
 
