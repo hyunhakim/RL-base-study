@@ -26,6 +26,10 @@ Almost these codes is from  [reinforcement learning contents](https://github.com
 
 - [Deep Q Network (Atari breakout)](https://github.com/hyunhakim/RL-base-study/blob/master/DQN/dqn_atari_breakout.ipynb)
 
+- [DQN (CartPole)](https://github.com/hyunhakim/RL-base-study/blob/master/DQN/dqn_cartpole.py)
+
+  
+  
   
   
   
