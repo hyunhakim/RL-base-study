@@ -30,6 +30,10 @@ Almost these codes is from  [reinforcement learning contents](https://github.com
 
 - [REINFORCE (CartPole)](https://github.com/hyunhakim/RL-base-study/blob/master/PolicyGradient/REINFORCE.py)
 
+- [A2C (CartPole)](https://github.com/hyunhakim/RL-base-study/blob/master/PolicyGradient/A2C.py)
+
+  
+  
   
   
   
