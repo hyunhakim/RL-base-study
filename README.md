@@ -4,7 +4,7 @@ This repository is about reinforcement learning algorithms.
 
 Almost these codes is from  [reinforcement learning contents](https://github.com/dennybritz/reinforcement-learning) and [reinforcement-learning-kr](https://github.com/rlcode/reinforcement-learning-kr) which are meant to serve as a learning tool with github code.
 
-
+<br />
 
 ## List of Implemented Algorithms
 
@@ -31,6 +31,8 @@ Almost these codes is from  [reinforcement learning contents](https://github.com
 - [REINFORCE (CartPole)](https://github.com/hyunhakim/RL-base-study/blob/master/PolicyGradient/REINFORCE.py)
 
 - [A2C (CartPole)](https://github.com/hyunhakim/RL-base-study/blob/master/PolicyGradient/A2C.py)
+
+- [A3C(REINFORCE) (CartPole)](https://github.com/hyunhakim/RL-base-study/blob/master/PolicyGradient/A3C(REINFORCE).py)
 
   
   
