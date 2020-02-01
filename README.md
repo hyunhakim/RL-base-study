@@ -1,5 +1,3 @@
-![image](https://user-images.githubusercontent.com/59254578/73594010-6fe07200-454d-11ea-8327-1f99aa14f5a6.png)
-
 ## Overview
 
 This repository is about **Reinforcement Learning** Algorithms.
