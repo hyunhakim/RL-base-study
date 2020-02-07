@@ -30,7 +30,7 @@ Almost these codes is from  [reinforcement learning contents](https://github.com
 
 - [REINFORCE (CartPole)](https://github.com/hyunhakim/RL-base-study/blob/master/PolicyGradient/REINFORCE.py)
 
-- [Actor-Critic (CartPole)](https://github.com/hyunhakim/RL-base-study/blob/master/PolicyGradient/A2C.py)
+- [Vanilla Actor-Critic (CartPole)](https://github.com/hyunhakim/RL-base-study/blob/master/PolicyGradient/A2C.py)
 
 - [A3C(REINFORCE) (CartPole)](https://github.com/hyunhakim/RL-base-study/blob/master/PolicyGradient/A3C(REINFORCE).py)
 
