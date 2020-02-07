@@ -34,6 +34,8 @@ Almost these codes is from  [reinforcement learning contents](https://github.com
 
 - [A3C(REINFORCE) (CartPole)](https://github.com/hyunhakim/RL-base-study/blob/master/PolicyGradient/A3C(REINFORCE).py)
 
+- PPO (CartPole) - (progressing)
+
   
   
   
