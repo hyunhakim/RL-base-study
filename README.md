@@ -1,10 +1,17 @@
 ## Overview
 
-This repository is about **Reinforcement Learning** Algorithms.
+This repository is about implement of **Reinforcement Learning** Algorithms with keras.
 
 Almost these codes is from  [reinforcement learning contents](https://github.com/dennybritz/reinforcement-learning) and [reinforcement-learning-kr](https://github.com/rlcode/reinforcement-learning-kr) which are meant to serve as a learning tool with github code.
 
-<br />
+<br>
+
+## Dependencies
+
+- *tensorflow == 1.13.1*
+- *keras == 2.2.4*
+
+<br>
 
 ## List of Implemented Algorithms
 
@@ -36,6 +43,8 @@ Almost these codes is from  [reinforcement learning contents](https://github.com
 
 - PPO (CartPole) - (progressing)
 
+  
+  
   
   
   
